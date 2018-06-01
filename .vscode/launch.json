@@ -17,7 +17,7 @@
 				"promptPhrase"	: "Can I help with anything else?",
 				"progressiveResponse" : "Working on it for you",
 				"msglocale" : "en-US",
-				"leaveSessionOpen" : "false",
+				"leaveSessionOpen" : "true",
 				"useHeroCardAttachmentAsAlexaCard" : "false",
 				"useMultipleResponses" : "true",
 				"multipleResponsesTimeout" : "3000",

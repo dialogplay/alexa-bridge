@@ -15,7 +15,8 @@
     "nconf": "^0.10.0",
     "request": "^2.85.0",
     "restify": "^7.1.1",
-    "xhr2": "*"
+    "xhr2": "*",
+    "restify-errors": "^6.1.0"
   },
   "files": [
     "server.js"
