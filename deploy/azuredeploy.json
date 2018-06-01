@@ -26,7 +26,7 @@
         },
         "repoURL": {
             "type": "string",
-            "defaultValue": "https://github.com/daltskin/alexa-bridge.git",
+            "defaultValue": "https://github.com/devedse/alexa-bridge.git",
             "metadata": {
                 "description": "The URL for the GitHub repository that contains the project to deploy."
             }

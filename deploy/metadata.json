@@ -2,6 +2,6 @@
   "itemDisplayName": "Deploy Alexa-bridge from GitHub repository",
   "description": "Deploy this Alexa-Bridge straight into your Azure subscription",
   "summary": "Deploy a Alexa-bridge from GitHub repository to your Azure Subscription",
-  "githubUsername": "daltskin",
+  "githubUsername": "devedse",
   "dateUpdated": "2018-04-20"
 }
