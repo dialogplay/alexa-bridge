@@ -121,7 +121,7 @@ The following application keys are required, you can set these in your launch.js
 |`promptPhrase` | `Can I help you with anything else?` | This is the phrase used to prompt the user to continue the conversation
 |`msglocale` | `en-US` | The locale for the message language
 |`APPINSIGHTS_INSTRUMENTATIONKEY` | `<yourappinsightsguid>` | The instrumentation key for appinsignts - comment out the appinsights code if you aren't using it  https://docs.microsoft.com/en-us/azure/application-insights/app-insights-nodejs-quick-start |
-|`leaveSessionOpen` | `false` | Set this to "false" to end the session by default (i.e. Alexa does not wait for further input) or "true" to wait for input and use the promptPhrase to prompt the user if they do not say anything else |
+|`leaveSessionOpen` | `true` | Set this to "false" to end the session by default (i.e. Alexa does not wait for further input) or "true" to wait for input and use the promptPhrase to prompt the user if they do not say anything else |
 | `useHeroCardAttachmentAsAlexaCard` | `false` | Set this to "true" to have the bridge use a Bot Framework Hero Card attachment to construct an Alexa card (the title, text and image from the Hero Card to populate the Alexa card). By default this is disabled unless this variable exists and is set to "true" |
 |`progressiveResponse` | `Working in it` | The busy message that you want Alexa to say whilst results are being retrieved from your bot |
 |`useMultipleResponses` | `true` | Set this to true if your bot responds with more than 1 message in any response |

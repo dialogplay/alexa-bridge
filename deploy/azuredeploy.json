@@ -144,7 +144,7 @@
                         },
                         {
                             "name": "leaveSessionOpen",
-                            "value": "false"
+                            "value": "true"
                         },
                         {
                             "name": "useHeroCardAttachmentAsAlexaCard",
