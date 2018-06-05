@@ -188,7 +188,7 @@ There is also an app setting 'leaveSessionOpen' which, if set to "true", will le
 
 There are a few different ways to deploy this to Azure - including the provided arm template
 
-[Publish using Azure Resoure Manager template](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fdevedse%2Falexa-bridge%2Fmaster%2Fdeploy%2Fazuredeploy.json)
+[Publish using Azure Resoure Manager template](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Faajadhav%2Falexa-bridge%2Fmaster%2Fdeploy%2Fazuredeploy.json)
 Deploys straight into a Resource Group, just provide the Application Settings during provisioning and you're good to go.
 
 
