@@ -152,7 +152,7 @@
                         },
                         {
                             "name": "useMultipleResponses",
-                            "value": "true"
+                            "value": "false"
                         },
                         {
                             "name": "multipleResponsesTimeout",
